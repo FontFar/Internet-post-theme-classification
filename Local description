@@ -1,0 +1,11 @@
+There are 2 neural networks and an algorithm for theme classification.
+NNs:
+
+1) Baseline with 91% accuracy 
+2) N-gramm with 92% accuracy 
+
+Algorithm:
+Stupid classification algorithm with 84% accuracy 
+
+
+-May get an update soon
